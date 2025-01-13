@@ -1,5 +1,5 @@
 # testrepo2
+## Editing the file 
+Its a mardown file in this repository
 
-##Editing the file repository
-
-Its q ;qrkdozn file in the repository 
+ 
